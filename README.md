@@ -1,3 +1,4 @@
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
@@ -21,11 +22,6 @@
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
 </div>
-
-<!-- Markdown -->
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
----
 
 ### 👨‍💻: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cameroon.
@@ -61,6 +57,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats : 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sonwaroberto&theme=dark)](https://git.io/streak-stats)
-<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonwaroberto)](https://github.com/anuraghazra/github-readme-stats)
-<div/>
