@@ -6,6 +6,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="devboris@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-cyan?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail account"/>
+    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail account"/>
   </a>
+  <div> 
+    <a href="devboris@gmail.com">
+     <img src="https://komarev.com/ghpvc/?username=sonwaroberto&style=flat-square&color=blue" alt=""/>
+    </a>
+  </div>
 </div>
