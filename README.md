@@ -21,6 +21,10 @@
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
 </div>
+
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 ---
 
 ### 👨‍💻: About Me :
@@ -57,4 +61,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats : 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sonwaroberto&theme=dark)](https://git.io/streak-stats)
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonwaroberto)](https://github.com/anuraghazra/github-readme-stats)
+<div/>
