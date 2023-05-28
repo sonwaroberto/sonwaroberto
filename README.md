@@ -20,7 +20,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
       <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail account"/>
     </a>
   <div> 
-    <h1> How to get to me... </h1>
     <a href="devboris@gmail.com">
       <img src="https://komarev.com/ghpvc/?username=sonwaroberto&style=flat-square&color=blue" alt=""/>
       </a>
